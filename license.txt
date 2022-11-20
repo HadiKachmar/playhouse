@@ -1,0 +1,11 @@
+Model Information:
+* title:	Play House
+* source:	https://sketchfab.com/3d-models/play-house-d5c3a1e1e27b46799a17f8575e1fb851
+* author:	NoTimeForAdventure (https://sketchfab.com/NoTimeForAdventure)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Play House" (https://sketchfab.com/3d-models/play-house-d5c3a1e1e27b46799a17f8575e1fb851) by NoTimeForAdventure (https://sketchfab.com/NoTimeForAdventure) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
